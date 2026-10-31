@@ -1,0 +1,216 @@
+New Ballard Score: Neonatal Education Guide
+
+A practical educational guide to estimating newborn gestational age using the New Ballard Score (NBS), with a printable assessment worksheet.
+
+Author: Abraham Eyale Chanie
+Brand: Digital Health | "@Chanieofficial" (https://chanieofficial.wordpress.com/)
+Tagline: Smarter Care. Healthier Tomorrow.
+
+---
+
+Overview
+
+The New Ballard Score (NBS) is a postnatal clinical assessment method used to estimate gestational age by evaluating a newborn's neuromuscular and physical maturity.
+
+This repository provides an educational resource for neonatal nurses, midwives, pediatricians, nursing students, and other healthcare professionals interested in structured newborn assessment and clinical documentation.
+
+The guide covers all 12 maturity criteria, scoring principles, gestational-age estimation, practical considerations, and an accompanying printable assessment worksheet.
+
+«Clinical notice: This repository is intended for educational purposes. The accompanying worksheet is an educational draft, not a validated or institutionally approved clinical instrument. Verify all scoring descriptions, illustrations, and conversion values against the original New Ballard Score instrument before clinical use. Follow your institution's approved neonatal assessment protocol.»
+
+---
+
+Repository Contents
+
+File or folder| Description
+"README.md"| Project overview and educational information
+"worksheet/"| Printable New Ballard Score assessment worksheet (PDF)
+"guide/"| Full educational guide in Markdown or PDF format
+
+Repository contents should be updated to reflect the files actually uploaded.
+
+---
+
+Assessment Overview
+
+The New Ballard Score evaluates 12 maturity criteria, divided into two categories.
+
+1. Neuromuscular Maturity
+
+Six assessment criteria:
+
+1. Posture
+2. Square window (wrist)
+3. Arm recoil
+4. Popliteal angle
+5. Scarf sign
+6. Heel to ear
+
+These findings evaluate muscle tone, passive resistance, flexibility, and neuromuscular development.
+
+2. Physical Maturity
+
+Six assessment criteria:
+
+1. Skin
+2. Lanugo
+3. Plantar surface
+4. Breast development
+5. Eye and ear development
+6. Genital development
+
+Genital maturity is assessed using different scoring descriptions for male and female newborns.
+
+---
+
+Scoring Principles
+
+Each of the 12 criteria receives an individual score according to the original illustrated assessment instrument.
+
+Total New Ballard Score = Neuromuscular Subtotal + Physical Subtotal
+
+Parameter| Reference
+Minimum score| −10
+Maximum score| +50
+Estimated gestational-age range| 20–44 weeks
+
+Gestational-Age Conversion Reference
+
+Total score| Estimated gestational age
+−10| 20 weeks
+−5| 22 weeks
+0| 24 weeks
+5| 26 weeks
+10| 28 weeks
+15| 30 weeks
+20| 32 weeks
+25| 34 weeks
+30| 36 weeks
+35| 38 weeks
+40| 40 weeks
+45| 42 weeks
+50| 44 weeks
+
+Important: The table shows five-point reference intervals. For intermediate scores, consult the official conversion guidance and record completed gestational weeks. Do not create an independent conversion formula.
+
+Official resource: "New Ballard Score FAQ" (https://www.ballardscore.com/CatalogView/FAQ)
+
+---
+
+Key Clinical Practice Considerations
+
+- Assess all 12 criteria systematically.
+- Use the original illustrated scoring instrument.
+- Handle the newborn gently and never force joints or limbs.
+- Document individual scores and both subtotals.
+- Record the total score and estimated gestational age.
+- Document examination date, time, and postnatal age.
+- Consider the newborn's clinical condition when interpreting findings.
+- Compare the result with available antenatal dating information.
+
+Timing of Assessment
+
+The original 1991 validation study reported better validity when assessment was performed before 12 hours of postnatal age in infants below 26 weeks of gestation.
+
+Examination timing should therefore be documented, particularly when assessing extremely preterm newborns.
+
+Clinical Interpretation
+
+The New Ballard Score provides an estimate of gestational age. It does not replace reliable antenatal dating information.
+
+It also does not independently classify newborns as:
+
+- SGA: Small for gestational age.
+- AGA: Appropriate for gestational age.
+- LGA: Large for gestational age.
+
+These classifications require birthweight, gestational age, and an appropriate growth reference.
+
+---
+
+Printable Assessment Worksheet
+
+An educational worksheet is provided to support structured neonatal assessment and clinical learning.
+
+The worksheet includes:
+
+- Newborn identification details.
+- Examination date and time.
+- Neuromuscular maturity assessment fields.
+- Physical maturity assessment fields.
+- Individual score recording.
+- Neuromuscular and physical subtotals.
+- Total score documentation.
+- Estimated gestational-age recording.
+- Clinical safety reminders.
+
+Worksheet: "worksheet/New_Ballard_Score_Worksheet.pdf"
+
+---
+
+Learning Objectives
+
+After reviewing this resource, learners should be able to:
+
+1. Explain the purpose of the New Ballard Score.
+2. Identify the 12 maturity assessment criteria.
+3. Differentiate neuromuscular and physical maturity.
+4. Understand the principles of score calculation.
+5. Interpret gestational-age estimates using the published reference.
+6. Recognize clinical limitations and assessment considerations.
+7. Apply structured documentation principles.
+
+---
+
+References and Official Resources
+
+Original Research
+
+Ballard JL, Khoury JC, Wedig K, Wang L, Eilers-Walsman BL, Lipp R. New Ballard Score, expanded to include extremely premature infants. The Journal of Pediatrics. 1991;119(3):417–423.
+
+"https://doi.org/10.1016/S0022-3476(05)82056-6" (https://doi.org/10.1016/S0022-3476(05)82056-6)
+
+Official Assessment Resources
+
+- "Original New Ballard Score Assessment Sheet" (https://www.ballardscore.com/ScoreSheet/ScoreSheet)
+- "New Ballard Score FAQ" (https://www.ballardscore.com/CatalogView/FAQ)
+
+---
+
+Contributing
+
+Suggestions and corrections that improve the educational accuracy and clarity of this resource are welcome.
+
+If you identify an error:
+
+1. Open a GitHub issue.
+2. Identify the relevant section or scoring criterion.
+3. Include the supporting reference or source.
+4. Explain the proposed correction.
+
+Clinical content should be reviewed against authoritative references before updates are accepted.
+
+---
+
+License
+
+Choose and add an appropriate license before distributing this repository.
+
+For original educational content, consider Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) if you want to permit non-commercial sharing and adaptation with attribution.
+
+Do not assume that this license covers third-party scoring sheets, illustrations, or copyrighted materials. Obtain permission where required.
+
+---
+
+Author and Digital Health Branding
+
+Abraham Eyale Chanie
+Digital Health | Healthcare Education | AI & Technology
+
+- Website: https://chanieofficial.wordpress.com/
+- GitHub: https://github.com/chanieofficial/
+- LinkedIn: https://www.linkedin.com/in/chanieofficial/
+
+Smarter Care. Healthier Tomorrow.
+
+Learn • Share • Transform Healthcare
